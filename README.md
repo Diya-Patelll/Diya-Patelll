@@ -1,12 +1,13 @@
 ## Hey! I'm Diya, a second-year Software Engineering student at Quinnipiac University. I'm currently in their accelerated dual-degree program, where I’ll earn my bachelor's in Software Engineering in three years and my master's in Cybersecurity in the fourth.
 
-- I'm currently working on a personal website
-<p align="left"> - Reach me at drpatel@quinnipiac.edu or my personal at diya427.p@gmail.com <p>
-  
- <h3> Languages & Tools <h3>
-    - Java, HTML, CSS
-    - GIMP, Adobe Photoshop
+- 🔧 Currently building my personal website  
+- 📫 Reach me at:  
+  • **School:** `drpatel@quinnipiac.edu`  
+  • **Personal:** `diya427.p@gmail.com`
 
+### 🛠️ Languages & Tools  
+- **Languages:** `Java`, `HTML`, `CSS`  
+- **Design Tools:** `GIMP`, `Adobe Photoshop`
 
 
 
