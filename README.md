@@ -1,6 +1,6 @@
 ## Hey! I'm Diya, a second-year Software Engineering student at Quinnipiac University. I'm currently in their accelerated dual-degree program, where I’ll earn my bachelor's in Software Engineering in three years and my master's in Cybersecurity in the fourth.
 
-- 🔧 Currently building my personal website  
+- 🔧 Currently building my personal portfolio  
 - 📫 Reach me at:  
   • **School:** `drpatel@quinnipiac.edu`  
   • **Personal:** `diya427.p@gmail.com`
